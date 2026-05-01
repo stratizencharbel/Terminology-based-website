@@ -86,8 +86,13 @@
   padding-block: 1rem;
 }
 
-.container p {
+.container p,
+.container ul li {
   font-family: sans-serif;
   padding-block: 0.5rem;
   font-size: 1.1rem;
+}
+
+.container ul {
+  margin-left: 2rem;
 }
