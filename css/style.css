@@ -96,3 +96,13 @@
 .container ul {
   margin-left: 2rem;
 }
+
+.container code {
+  background-color: #444;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  color: white;
+  margin-block: 0.25rem;
+  display: block;
+  width: fit-content;
+}
